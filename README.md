@@ -7,3 +7,5 @@
 [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext/releases/download/latest/smarttube_stable.apk)
 
 [Cloudstream](https://cloudstream.ws/apk)
+
+[S4U](https://seasons4u.com/apk09364981) (membership required)
